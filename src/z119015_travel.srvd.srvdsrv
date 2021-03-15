@@ -1,0 +1,4 @@
+@EndUserText.label: 'Excercise 3'
+define service Z119015_Travel {
+  expose ZI_119015_Travel_XT;
+}

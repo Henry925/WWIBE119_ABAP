@@ -11,7 +11,8 @@ ENDCLASS.
 
 
 
-CLASS zcl_119015_exercise_0101 IMPLEMENTATION.
+CLASS ZCL_119015_EXERCISE_0101 IMPLEMENTATION.
+
 
 METHOD if_oo_adt_classrun~main.
 
@@ -31,5 +32,4 @@ METHOD if_oo_adt_classrun~main.
     out->write( |End: | && end_date ).
 
       ENDMETHOD.
-
 ENDCLASS.
